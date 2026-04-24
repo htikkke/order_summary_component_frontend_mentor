@@ -108,3 +108,8 @@ p {
 .cancel-button:hover {
   color: black;
 }
+@media screen and (max-width: 600px) {
+  .container {
+    height: 90%;
+  }
+}
